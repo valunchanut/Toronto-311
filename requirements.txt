@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.26
+requests>=2.31
+matplotlib>=3.7
+folium>=0.16
+geopandas>=0.14
+shapely>=2.0
+# statsmodels for SARIMA (optional for forecasting)
+statsmodels>=0.14
+# prophet is optional and can be tricky to install locally; uncomment if you want it
+# prophet>=1.1
